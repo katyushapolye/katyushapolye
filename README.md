@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katyushapolye
-- 👀 I’m interested in Back-end programming, CyberSecurity and Other (Gamedev as a hobby)
+- 👀 I’m interested in Back-end programming, CyberSecurity, Computational Simulations and Other (Gamedev as a hobby)
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: raphael.laroca@gmail.com
 
